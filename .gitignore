@@ -7,8 +7,8 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-private_key copy.txt
-private_key.txt
+config/private_key copy.txt
+config/private_key.txt
 
 node_modules
 dist

@@ -1,5 +1,0 @@
-# 这是一个示例私钥文件，请替换为您的实际私钥
-# 每行一个私钥，以#开头的行会被忽略
-
-# eth-c871
-1899f8c06acbcddddeeeeccccccccccccccccccccc

@@ -8,6 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 private_key copy.txt
+private_key.txt
 
 node_modules
 dist
